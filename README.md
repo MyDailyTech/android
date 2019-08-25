@@ -1,2 +1,2 @@
-# android
-Android training projects
+# notes-app
+Android notes application
